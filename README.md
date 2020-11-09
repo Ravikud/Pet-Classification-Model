@@ -11,8 +11,9 @@ datagen = ImageDataGenerator( rotation_range=40, width_shift_range=0.2, height_s
 
 For details , read Documentation :http://keras.io/preprocessing/image/
 It uses data that can be downloaded at: https://www.kaggle.com/c/dogs-vs-cats/data.
+
 In our setup, we:
-•	created a Projects folder
-•	created train/ and validation/ subfolders inside Projects folder 
-•	created cats/ and dogs/ subfolders inside train/ and validation
+1. created a Projects folder
+2. created train/ and validation/ subfolders inside Projects folder 
+3. created cats/ and dogs/ subfolders inside train/ and validation
 
